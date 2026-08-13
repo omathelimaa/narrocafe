@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <rect width="512" height="512" rx="128" fill="#503429"/>
   <!-- Elegant leaf/drop hybrid path -->
-  <path d="M256 80 C256 80 120 240 120 330 A136 136 0 0 0 392 330 C392 240 256 80 256 80 Z" fill="#e2d4ba"/>
+  <path d="M256 80 C256 80 120 240 120 330 A136 136 0 0 0 392 330 C392 240 256 80 256 80 Z" fill="#d7c5b7"/>
   <!-- Leaf vein details -->
   <path d="M256 120 C256 220 256 320 256 380" stroke="#503429" stroke-width="16" stroke-linecap="round"/>
   <path d="M256 200 Q210 230 190 270" stroke="#503429" stroke-width="12" stroke-linecap="round" fill="none"/>
   <path d="M256 260 Q302 290 322 330" stroke="#503429" stroke-width="12" stroke-linecap="round" fill="none"/>
 </svg>
+
+
